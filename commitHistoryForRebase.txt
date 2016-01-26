@@ -7,3 +7,4 @@ Real 4th commit
 6th commit was a file name change from the website
 7th commit to try rebase option
 8th commit for rebase test
+9th commit for rebase test
